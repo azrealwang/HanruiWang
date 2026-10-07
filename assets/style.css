@@ -97,6 +97,13 @@ h1 {
   gap: 9px;
   margin-top: 24px;
 }
+.contact-links a { gap: 6px; }
+.contact-links img {
+  width: 15px;
+  height: 15px;
+  display: block;
+  flex: none;
+}
 .contact-links a, .pub-links a {
   display: inline-flex;
   align-items: center;
